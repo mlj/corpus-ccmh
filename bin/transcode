@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+STDOUT.sync = true
+
+$:.unshift File.join(File.dirname(__FILE__), *%w{ .. lib })
+
+require 'ccmh'
+
+if ARGV.length != 2
+  STDERR.puts "Usage: transcode infile outfile"
+  exit 1
+else
+  transcode *ARGV
+end
