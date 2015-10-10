@@ -56,7 +56,7 @@
 1060200 egda ubo tvoriSi milostyn^jO . ne v&strObi pr@d& sobo^jO .
 1060210 @ko Upokriti tvorEt& .
 1060220 v& s&n$miStix& i v& st&gnax& . da proslavEt& sE ot& !Clvk& .
-1060230 amin& !gljO vam& . v$spriimOt& m&zdO svo^jO ::
+1060230 amin$ !gljO vam& . v$spriimOt& m&zdO svo^jO ::
 1060300 *teb@ Ze tvorEqju milostynjO . da ne Cjuet& Sjuica tvo@ .
 1060310 C$to tvorit& des'nica tvo@ .
 1060400 da bOdet& milostyni tvo@ v& tain@ . i !otc& tvoi vidEi v& tain@
@@ -71,7 +71,7 @@
 1060700 *molEqe Ze sE ne lixo !glte . @koZe i jEzyC&nici . m$nEt& bo sE
 1060710 @ko vo m&noD@ !glni svoem$ uslySani bOdOt& .
 1060800 ne podobite sE ubo im& . v@st& bo otec& vaS& ix&Ze tr@buete .
-1060810 pr@Zde proSeni@ vaSego.
+1060810 pr@Zde proSeni@ vaSego .
 1060900 tako ubo molite vy sE .
 1060910 *(wt$Ce naS& iZe si na !nbsx& da !svt sE imE tvoe .
 1061000 da pridet& !csrestvie tvoe . da bodet& vol@ tvo@ . @ko na !nbsi
@@ -82,11 +82,11 @@
 1061300 J ne v$vedi nas& v& napast$ . n$ izbavi ny ot& nepri@zni . 
 1061310 @ko tvoe est& !csrstvie . J sila i slava v$ v@ky amin$ .
 1061400 *aqe ubo ot&puqaete !Clvkm& s&gr@Seni@ ix& ot&pustit& i vam&  
-1061410 !otc& vaS& !nebesky.
+1061410 !otc& vaS& !nebesky .
 1061500 aSte li ne ot&puqaete !Clvkom& s&gr@Seni ix& .
 1061510 ni !otc& vaS& ot&pustit& s&gr@Senii vaSix& .
 1061600 egda Ze postite sE . ne bOd@te @ko i (Upokriti .
-1061610 prosmraZdajOt& bo lica svo@.
+1061610 prosmraZdajOt& bo lica svo@ .
 1061620 da b[O] sE avili !Clvko[m&] postEqe . amin& !gljO vam& .
 1061630 @ko [v&]spriemljOt& m[&]zdO svo^jO .
 1061700 ty Ze postE sE pomaZi glavO svo^jO . J lice tvoe umyi .
@@ -177,7 +177,7 @@
 1072400 *v$s@k& ubo ize slySit& slovesa mo@ si i tvorit& @ .
 1072410 upodobljO i mOZjO mOdru . iZe soz&da xraminO svo^jO na kamene .
 1072500 (J s&nide doZd& i pridO r@ky .
-1072510 i v$zv@aSE v{r}@tri . (J napadO na xpaminO tO .
+1072510 i v$zv@aSE v{r}@tri . (J napadO na xraminO tO .
 1072520 i ne pade sE osnovana bo b@ na kamene .
 1072600 i v$s@k& slySEi slovesa mo@ si i ne tvorEi ix& .
 1072610 upodobit&  sE mOZO bu^jO . JZe soz&da svojO xraminO na p@s&c@ .
@@ -208,7 +208,7 @@
 1081100 !*gljO Ze vam& @ko m&noDi ot& v&stok& i zapad& pridOt& .
 1081110 J v$zlEgOt& s& avraamom& i isakom$ . (J i@kovom$ . v&
 1081120 !crstvii !nebsc@em$ .
-1081200 a !snve{ve} !cstvi@ izg&nani bOdOt& . v& t&mO krom@St$njO^jO.
+1081200 a !snve{ve} !cstvi@ izg&nani bOdOt& . v& t&mO krom@St$njO^jO .
 1081210 tu bOdet& plaC$ i skr$Zet& zObom& .
 1081300 J reCe !is& s&t$niku .
 1081310 idi @koZe v@rova bOdi teb@ .
@@ -304,14 +304,14 @@
 1092510 J v&sta d@vica .
 1092600 J izide v@st$ si po v$sei zemi to(i ::
 1092700 *J pr@xodEqju tOd@ !isvi . po nem$ idete d$va sl@p$ca
-1092710 zovOqa i !glqa. pomilui ny !snu !dv& .
+1092710 zovOqa i !glqa . pomilui ny !snu !dv& .
 1092800 priSed&Su Ze emu v& dom& . pristO!pste k& nemu sl@p&ca .
 1092810 J !gla ima !is& . v@rueta li @ko mogO se s&tvoriti .
 1092820 !glaste emu e~i !gi .
 1092900 t&gda kosnO @ v& oCi !glE . po v@r@ vaju bOdi vama .
 1093000 (J otvr@ste sE ima oCi . J zapr@ti ima !is& !glE .
 1093010 bljud@ta da niktoZe ne uv@st& .
-1093100 ona ze iSed&Sa proslaviste i po v$sei zemi toi .
+1093100 ona Ze iSed&Sa proslaviste i po v$sei zemi toi .
 1093200 t@ma Ze isxodEStema . se priv@sE !Clvk& n@m& b@sen& .
 1093300 J izg&nanu b@su !progla n@my . J diviSE sE narodi !gljOqe .
 1093310 nikoliZe avi sE tako !vli .
@@ -372,13 +372,13 @@
 1102510 i rabu @ko !g$ ego . *J aSte gospodina domu vel$z@vola nar@SE .
 1102520 kol$mi paCe domaSt$nEjE ego .
 1102600 ne uboite sE ubo ix& :: z!C . *niCtoZe bo est& pokr&veno eZe ne
-1102610 ot&kr&veno bOdet& . J taino eZe ne ub@d@no bOdet& .
+1102610 ot&kr&veno bOdet& . J taino eZe ne uv@d@no bOdet& .
 1102700 eZe !gljO vam& v& t&m@ . r$c@te v$ sv@t@ . 
 1102710 J eZe v& uxo slySite . propov@dite na krov@x& .
 1102800 J ne uboite sE ubivajOqix& t@lo . J !dSE ne mogOSt& ubiti .
 1102810 boite Ze sE paCe . mogOqaago i !dSO i t@lo pogubiti v& Ge(enn@
 1102900 ne d$v@ li p$tici na ssarii v@nim@ este . J ni edina Ze ot& neju
-1102910 ne padet& na zemi bez ot&ca vaSego.
+1102910 ne padet& na zemi bez ot&ca vaSego .
 1103000 vam& Ze i vlasi glavy v$si iq&teni sOt& . ne uboite sE ubo m&noz@x&
 1103010 ptic& luC&Si vy este .
 1103200 *v$s@k& ubo iZe ispov@st& mE pr@d& !Clvky . Jspov@m& I
@@ -547,7 +547,7 @@
 1124300 egda Ze neCisty !dx& (Jzidet& ot& !Clvka . pr@xodit&
 1124310 skoz@ bezd&naa m@sta . JStE poko@ i ne obr@taat& .
 1124400 t&gda reCet& . v&zvraStO sE v& xram& moi . ot& njOduZe izid& .
-1124410 J priSed& obrEStet& prazden& . po meten& . ukraSen& .
+1124410 J priSed& obrEStet& prazden& . pometen& . ukraSen& .
 1124500 t&gda idet& i poimet& s& sobojO sedm$ in@x& !dx& . 
 1124510 ljuSt$S$ sebe . J v&Sed&Se ZivOt& tu .
 1124520 J bOdOt& posl@d$n@ !Clvka togo gor$Sa pr&vyx& .
@@ -567,7 +567,7 @@
 1130210 J @ko v$l@z& v& korab$ s@de . i ves$ narod& na pomori sto@Se .
 1130300 i !gla im& m&nogo prit&Cami !glE . *se izide s@jEi da s@et& .
 1130400 J s@jOStumu . ova ubo padO pri pOti .
-1130410 J pridO pticE !nebskyjE i pozobaSE @.
+1130410 J pridO pticE !nebskyjE i pozobaSE @ .
 1130500 drugaa Ze padO na kameneix& . @Ze ne im@SE zemlE m&nogy .
 1130510 J ab$e prozEbO . zane ne im@Se glObiny zeml@ .
 1130600 sl&n&cu Ze vosi@v&Sju prisvEdO . J zane ne im@xO koreni@ is&xO .
@@ -602,12 +602,12 @@
 1132110 byv&Si Ze peCali i goneniju slovese radi . ab$e s&blaZn@at& sE .
 1132200 a s@anoe v& tr&nii . s$ est& slySEi slovo . J peCal$ sv@ta sego .
 1132210 J l$st$ bgat&stva podavl@et& e . J bes ploda byvaet& .
-1132300 a s@anoe na dobr@ zemi . s$ est& slySEi slovo i razum@vajE e.
+1132300 a s@anoe na dobr@ zemi . s$ est& slySEi slovo i razum@vajE e .
 1132310 J prinosit& plod& @ko podobaat& . i tvorit& ovo 
 1132320 . !r . ovo . !m . ovo !G .
 1132400 *(JnO prit&CO pr@d&loZi im& !glE :: *(upodobi sE !crstvie nebeskoe .
 1132410 !Clvku s@v&Su dobro s@mE na sel@ svoem$ .
-1132500 s&pEqem& Ze !Clvkom& .pride vrag& ego .
+1132500 s&pEqem& Ze !Clvkom& . pride vrag& ego .
 1132510 i v$s@ pl@vel& po sr@d@ pSenicE i otide .
 1132600 egda Ze prozEbe tr@va i plod& s&tvori . t&gda avi sE i pl@vel& .
 1132700 priSed&Se Ze rabi !gina r@SE emu !gi .
@@ -701,7 +701,7 @@
 1141410 J isc@li nedOZ&nyjE ix& .
 1141500 *pozd@ Ze byv&Su pristOpiSE k& nemu uCenici ego . !gljOSte .
 1141510 pusto est& m@sto . J godina minO juZe (ot&pusti narody .
-1141520 da Sed&Se v$ bliZ$nEjE grad&cE . kupEt& braS&na sebe .
+1141520 da Sed&Se v$ bliZ$nEjE grad&cE . kupEt& braS&na seb@ .
 1141600 !Js Ze reCe im& . ne tr@bujOt& otiti . dadite im& vy @sti .
 1141700 oni Ze !glaSE emu ne imam& s&de t&kmo pEt$ xl@b& i d$v@ ryb@ .  
 1141800 on& Ze reCe prines@te mi jE s@mo .
@@ -803,7 +803,7 @@
 1153300 J !glSE emu uCenici . ot& kOd@ v$z$mem& na pust@ m@st@ xl@by .
 1153310 nasytiti toliko naroda .
 1153400 J !gla im& !is . koliko xl@b& (imate .
-1153410 oni Ze r@SE .!Z. i malo rybic& .
+1153410 oni Ze r@SE . !Z . i malo rybic& .
 1153500 J povel@ narodu v&zleSti na zemli .
 1153600 J priem& !Z xl@b& . J ryby . xvalO v&zdav& .
 1153610 pr@lomi i dast& uCenikom& svoim& . uCenici Ze narodom& .
@@ -838,7 +838,7 @@
 1161310 v&praSaSe uCeniky svojE !glE .
 1161320 kogo !gljOt& mE !Clvci sOSta !sna !ClvCskaago .
 1161400 oni Ze r@SE emu . ovi ioana !krstitel@ . Jni Ze ilijO .
-1161410 druDii Ze ieremi^jO . li edinogot& !prk& .
+1161410 druDii Ze ieremi^jO . li edinogo-t& !prk& .
 1161500 !gla im& !is . vy Ze kogo mE !glete byti .
 1161600 ot&v@qav& Ze simon& petr& reCe . ty esi !x& !sn& !ba Zivaago .
 1161700 J ot&v@qav& !is . reCe emu . *blaZen& esi simone varijwna .
@@ -869,7 +869,7 @@
 1162700 *priti bo imat& !sn& Clov@Csky . v& slav@ !otca svoego .
 1162710 s& !anGly !stymi . J togda v&zdast& komuZ&do po d@lom& svoim& .
 1162800 amin$ !gljO vam& . sOt& eteri ot& s&de stojEStix& .
-1162810 JZe ne imOt& s&mr&ti v&kusiti .don$deZe vidEt&
+1162810 JZe ne imOt& s&mr&ti v&kusiti . don$deZe vidEt&
 1162820 !sn& !ClvCsky grEdOSt$ v& !csrstvii svoem$ ::
 1170100 J byst& po Sesti den& . *pojEt& !is petra i i@kova
 1170110 i ioana bratra ego . J v$zvede jE na gorO vysokO ediny .
@@ -953,7 +953,7 @@
 1181010 !gl bo vam& . @ko !anGli ix& !nnbsx& .
 1181020 v& InO vidEt& lice ot&ca moego !nbskaago .
 1181100 pride bo !sn& !ClvCsky v&ziskat& i !spst& pogyb&Saago .
-1181200 C&to sE vam& m$nit& . aSte bOdet& eteru !Clvku !.p. ovec& .
+1181200 C&to sE vam& m$nit& . aSte bOdet& eteru !Clvku . !r . ovec& .
 1181210 (J zablOdit& edina ot& nix& . ne ostavit& li devEti desEt& i devEti 
 1181220 na gorax& . i Sed& iStet& zablOZd$SEjE .
 1181300 i aqe obrEqet& ^jO . amin$ !gljO vam& ?? @ko raduet& sE o nei paCe .
@@ -962,7 +962,7 @@
 1181410 edin& ot& malyx& six& .
 1181500 aqe Ze s&gr@Sit& k& teb@ bratr& tvoi . Jdi obliCi i meZdju sobojO i
 1181510 t@m$ edin@m$ . aqe tebe posluSaat& priobrEqeSi bratr& tvoi .
-1181600 aqe li tebe ne posluSaat& .poimi paky s& sobojO edinogo li dva . 
+1181600 aqe li tebe ne posluSaat& . poimi paky s& sobojO edinogo li dva . 
 1181610 da v& ust@x& d&voju li trii s&v@d@tel$ stanet& v$s@k& !gl& .
 1181700 aqe Ze ne posluSaat& ix& . r$ci !crkvi .
 1181710 aSte Ze i o crkvi ne roditi v$C$net& .
@@ -973,7 +973,7 @@
 1181900 *paky amin& !gl vm& . @ko aSte d&va ot& vas& s&v@Staate
 1181910 na zemi o v$s@koi veSti ejEZe koliZ&do prosite bOdet& ima .
 1181920 ot& !otca moego iZe est& !nnbsx& . 
-1182000 JdeZe bo este d&va .li tr$e s&brani v& ImE mo(e .
+1182000 JdeZe bo este d&va . li tr$e s&brani v& ImE mo(e .
 1182010 tu esm& po sr@d@ ix& :: k!c .
 1182100 t&gda pristOp$ k& nemu petr& reCe .
 1182110 !gi kol$ kraty s&gr@Sit& bratr& moi v& mE .
@@ -1011,7 +1011,7 @@
 1190110 J pride v& pr@d@ly ijudeisky . ob on& pol& ior&dana .
 1190200 J po nem$ idO narodi m&noDi i isc@li jE tu ::
 1190300 *J pristOpiSE k& nemu faris@i iskuSajOSte i !gljOqe .
-1190310 aSte dostoit& !Clku pustiti ZenO svo^jO . po v$s@koi vin@.
+1190310 aSte dostoit& !Clku pustiti ZenO svo^jO . po v$s@koi vin@ .
 1190400 on& Ze ot&v@Stav& reCe im& . n@ste li C$li .
 1190410 @ko s&tvori i Jskoni mOZesk& pol& i Zenesk& . s&tvoril& est& .
 1190500 J reCe sego radi ostavit& !Clk& !otca svoego  i mater$ svojO .
@@ -1062,7 +1062,7 @@
 1192600 v&z$r@v& Ze !is reCE im& . ot& !Clvk& se nev&zmoZ&no est& .
 1192610 a ot& !ba v$s@ v&zmoZ&na :: k!c .
 1192700 *t&gda ot&v@Stav& petr& reCe emu .
-1192710 !gi se my ostavixom& v$s@ i v$ sl@d& tebe idom&. Cto ubo bOdet& nam&.
+1192710 !gi se my ostavixom& v$s@ i v$ sl@d& tebe idom& . Cto ubo bOdet& nam& .
 1192800 !Js reCe im& . amin$ !gljO vam& .
 1192810 @ko vy Sed&Sei po m&n@ v& pakybytii .
 1192820 egda sEdet& !sn& !Clvsky . na pr@stol@ slavy svoe(jE . 
@@ -1070,7 +1070,7 @@
 1192840 sOdESte ob@ma na desEte kol@noma !izdrailvma .
 1192900 J v$s@k& iZe ostavit& bratri^jO li sestry . li !otca li mater$ .
 1192910 li ZenO li d@ti . li sela li xramy . Jmene moego radi .
-1192920 s&toricejO primet&. J Zivot& v@C&ny nasl@dit& .
+1192920 s&toricejO primet& . J Zivot& v@C&ny nasl@dit& .
 1193000 m$noDi Ze bodOt& pr&vii posl@d$nii . J posl@d$nii pr&vii ::
 1200100 *podob&no est& !csrstvie nebeskoe . !Clvku domovitu .
 1200110 JZe izide kup&no Utro . najEt& d@latel& vinogradu svoemu . 
@@ -1091,7 +1091,7 @@
 1200900 priSed&Se Ze iZe v& edinOjO na desEte godinO . prijEsE po p@nEzju .
 1201000 J priSed&Se pr&vii m$n@axO sE vESte prijEti . J prijEsE po p@nEzu .
 1201100 priem&Se Ze r&p&taaxO na !gn& 
-1201200 !glOSte. kako s$jE posl@d$nEjE . edin& Cas& s&tvor$SE . 
+1201200 !glOSte . kako s$jE posl@d$nEjE . edin& Cas& s&tvor$SE . 
 1201210 J rav&ny nam& s&tvoril& jE esi . pones&Seim& tEgotO d$ne i var& .
 1201300 on& Ze ot&v@qav& reCe edinomu ix& . druZe ne obiZdO tebe .
 1201310 ne po p@nEDu li s&v@Stax& s& tobojO .
@@ -1146,7 +1146,7 @@
 1210510 krotok& i v$s@d& na os$lE . J Zr@bE !sna @r$m$niCa .
 1210600 *Sed&Sa Ze uCenika i s&tvor$Sa @Ze povel@ ima !is .
 1210700 priv@ste os$lE i Zr@bE . J v&zloZiSE vr&xu rizy svojE .
-1210710 J v$s@de vr&xu ix&.
+1210710 J v$s@de vr&xu ix& .
 1210800 m&noZ@iSe Ze narodi . post&laSE rizy svojE po pOti . druzii
 1210810 Ze r@zaxO b@tvi ot& dr@va . i postilaxO po pOti .
 1210900 narodi Ze xodEStei pr@d& nim& . J v$ sl@d& . z&vaaxO !gljOSte ::
@@ -1212,7 +1212,7 @@
 1213510 ovogo Ze kameniem$ pobiSE .
 1213600 paky pos&la iny raby . m&noZ@iSE pr&vyx& . J s&tvoriSE  im& toZde .
 1213700 posl@d$ Ze pos&la k& nim& !sn& svoi !glE .
-1213710 usraml@jOt& sE ! sna moego .
+1213710 usraml@jOt& sE !sna moego .
 1213800 d@latele Ze egda uz$r@SE !sn& . r@SE v$ seb@ .
 1213810 s$ est& nasl@d&nik& . prid@te ubim& I . J udr&Zim& dosto@nie ego .
 1213900 J em&Se i izv@sE von& iz vinograda . J ubiSE i .
@@ -1240,7 +1240,7 @@
 1220600 a proCi im&Se raby ego dosadiSE im& i izbiSE (jE .
 1220700 J slySav& !csr t& razgn@va sE i pos&la vojE svojE .
 1220710 pogubi ubicE ty . J grady ix& zaZ$Ze .
-1220800 t&gda !gla rabom& svoim& .brak& ubo gotov& est& .
+1220800 t&gda !gla rabom& svoim& . brak& ubo gotov& est& .
 1220810 a z&vanii ne b@SE dostoini .
 1220900 Jd@te ubo na isxodiSta pOtii .
 1220910 J eliko aSte obrEStete prizov@te na brak& .
@@ -1457,7 +1457,7 @@
 1243910 tako bOdet& i priSestvie !sna !ClvCskaago .
 1244000 t&gda d&va bOdete na sel@ . edin& poemljOt& . 
 1244010 a drugy ostavl@at& sE .
-1244100 d$v@ meljOqiv& Zr&n&vax& . edina poemlet& sE i edina ostavl@at& sE.
+1244100 d$v@ meljOqiv& Zr&n&vax& . edina poemlet& sE i edina ostavl@at& sE .
 1244200 b$dite ubo @ko ne v@ste v& kOjO godinO !g$ vaS& pri{de}det& .
 1244300 se Ze v@dite . @ko aqe bi v@d@l& !gn& xrama .
 1244310 v& kOjO straZO tat$ pridet& . b$d@l& ubo bi .
@@ -1499,7 +1499,7 @@
 1251510 ovomu Ze edin& . komuZ&do protivO sil@ svoe(i . (J otide abie .
 1251600 Sed& Ze priemy . !d talan&t& d@la o nix& .
 1251610 J priobr@te drugOjO !d talant& . 
-1251700 tako i iZe d&va . priobr@te druga@ d&va.
+1251700 tako i iZe d&va . priobr@te druga@ d&va .
 1251800 a priemy edin& . S&d& raskopa zem^ljO .
 1251810 J s&kry s&rebro !gna svoego .
 1251900 po m$noz@x& Ze vr@menex& pride !g$ rab& t@x& .
@@ -1553,7 +1553,7 @@
 1254110 proklEtii v& ogn& v@C&ny . ugotovany di@volu i !anGlom& ego . 
 1254200 v&zalkax& bo sE i ne daste mi @sti .
 1254210 v$ZdEdax& sE i ne napoiste mene .
-1254300 stranen& b@x& i ne v&v@ste mene. nag& i ne od@ste mene .
+1254300 stranen& b@x& i ne v&v@ste mene . nag& i ne od@ste mene .
 1254310 bolen& i v& tem$nici i ne pos@tiste mene .
 1254400 *t&gda ot&v@StajOt& i ti !gljOqe . !gi kogda tE vid@xom& alCOqa .
 1254410 li ZEZdOSta li stran&na li naga . li bol$na li v$ tem$nici .
@@ -1702,7 +1702,7 @@
 1267510 @ko pr@Zde daZe kokot& ne v&zglasit& .
 1267520 tri kraty ot&vr&ZeSi sE mene . J iSed& von& plaka sE gor$ko :: k!c .
 1270100 *jutru Ze byv&Su . *s&v@t& s&tvoriSE v$si arxierei i star$ci
-1270110 ljud$scii na !isa . @ko ubiti i.
+1270110 ljud$scii na !isa . @ko ubiti i .
 1270200 J s&v@zav&Se i v@sE . J pr@daSE
 1270210 i pont$skumu pilatu . JGemonu :: k!c .
 1270300 *t&gda vid@v& ijuda pr@davyi ego . @ko osOdiSE i .
@@ -1778,7 +1778,7 @@
 1274300 up&va na !ba da izbavity i nyn@ . aSte xoStet& emu .
 1274310 reCe bo @ko !bZii !sn& esm& .
 1274400 toZde Ze i razboinika raspEta s& nim& ponoSaaste . emu .
-1274500 *ot& Sesty {I} jE Ze godiny t&ma byst& po v$sei zemi .
+1274500 *ot& Sesty{I}jE Ze godiny t&ma byst& po v$sei zemi .
 1274510 do devEtyjE godiny ::
 1274600 *pri devEt@i Ze godin@ v$z$pi !is glasom$ veliem$ !glE .
 1274610 elwJ elwJ lema savaxtani . eZest& !bZe moi !bZe moi . 
@@ -1789,8 +1789,8 @@
 1274900 a proCii !glxO . ostani da vidim& . aqe pridet& ili@ !spst& ego .
 1274910 drugy Ze priem& kopie probode emu rebra . J izide voda i kr&v$ . ::
 1275000 !!*Js& Ze v&z&piv& !glsm& v&l$em$ ispusti !dx& .
-1275100 J se katapetazma !crkvna@ razd&ra sE . s& vyS&n@ago kra@ do ni ???
-1275110 Z&n@ago na d&vo(e . J zeml@ potrEse sE . J kamenie raspade sE . 
+1275100 J se katapetazma !crkvna@ razd&ra sE . s& vyS&n@ago kra@ do
+1275110 ni???Z&n@ago na d&vo(e . J zeml@ potrEse sE . J kamenie raspade sE . 
 1275200 J grobi otvr@sE sE . J m&noga t@lesa poCivajOStiix& !styx& v&staSE . 
 1275300 J iSed&Se iz g[r]ob& po voskr&snovenii ego . v&nidO v& !sty grad& .
 1275310 J @viSE sE m&nogom& .
@@ -1815,7 +1815,7 @@
 1276300 !gljOSte !gi pom@nOxom& @ko l$stec& on& reCe . eSte sy Ziv& .
 1276310 po trex& d$nex& v&stanO .
 1276400 poveli ubo utvr&diti grob& do treti@ago d$ne .
-1276410 eda kako priSed&Se uCenici ego noStijO ukradOt& I.
+1276410 eda kako priSed&Se uCenici ego noStijO ukradOt& I .
 1276420 J rekOt& ljudem& v&sta ot& mr&tvyx& .
 1276430 J bOdet& posl@d$n@a lest$ gor$Si pr&vyjE .
 1276500 reCe im& pilat& imate kustodijO id@te utvr&dite @koZe v@ste .
@@ -1943,7 +1943,7 @@
 2011910 J ta v& ladii zavEzajOSta mr@ZE .
 2012000 J ab$e v&z&va @ . J ostavl$Sa ot&ca svoego zevedea v& ladi(i
 2012010 s& naem&niky . po nem$ idete . ::
-2012100 *(J v$nidO v& kaper&naum& . J ab$ v& soboty na son$miqi yCaSe jE .
+2012100 *(J v$nidO v& kaper&naum& . J ab$ v& soboty na son$miqi uCaSe jE .
 2012200 J divl@axO sE o uCenii ego b@ bo uCE @ko vlast$ (Jmy .
 2012210 J ne @ko k&niZ&nici ix& ::  
 2012300 *J b@ na son$mi[qi]x& !Clk& neCistom$ !dxm$ . J  v&z&va !glE
@@ -1987,7 +1987,7 @@
 2014510 @ko k tomu ne moZaaSe @v@ v& grad& v$niti . n& v$n@ v& pust@x&
 2014520 m@st@x& b@ . J prixoZdaxO k& nemu ot& v&sOd@ ::
 2020100 *J v$nide paky !is& v& kaper&naum& po d$nex& .
-2020110 J slux& byst& @ko b& domu est& .
+2020110 J slux& byst& @ko v& domu est& .
 2020200 J ab$e s&b&raSE sE m&noDi . @ko k& tomu ne
 2020210 v$m@qaaxO sE ni pr@d& dver$mi . J !glaSe im& slovo .
 2020300 *J pridO k& nemu nosESte oslablen& Zilami . nosim& Cetyr$mi .
@@ -2005,7 +2005,7 @@
 2020820 reCe im& . Cto tako pomySl@ate v& !srdcix& vaSix& .
 2020900 Cto est& udob@e reSti oslablenumu . ot&puStajOt& ti sE gr@si .  
 2020910 li reSti v&stani i v$z&mi odr& tvoi i xodi .
-2021000 n& da v@ste @ko vlast$ !sn& !!ClvCsky .
+2021000 n& da v@ste @ko vlast$ imat& !sn& !!ClvCsky .
 2021010 ot&puStati na zemi gr@xy J !gla oslablenumu .
 2021100 teb@ !gljO v&stani i v$z$mi odr& . tvoi i idi v& dom& tvoi 
 2021200 i v&sta ab$e i v$zEt& odr& . J izide pr@d& v$s@mi .
@@ -2050,7 +2050,7 @@
 2022710 t@m$ Ze !g& est& !sn& !ClCsky sobot@ ::
 2030100 J v$nIde paky v$ s&n$miSte . J b@ tu !Clvk& suxO rOkO imy .
 2030200 J naziraaxO i . aqe v& sobotO isc@lit& I . da na n$ v&zglagoljOt& .
-2030300 J !gla ! Clku imOStumu suxO rOkO stani po sr@d@ 
+2030300 J !gla !Clku imOStumu suxO rOkO stani po sr@d@ 
 2030400 i !gla im& . dostoit& li v& sobotO dobro tvoriti li z&lo tvoriti .
 2030410 !dSO s&pasti li pogubiti . oni Ze ml&CaaxO . J
 2030500 v&z&r@v& na nE s& gn@vom& .
@@ -2062,7 +2062,7 @@
 2030700 !(Js& Ze otide s& uCeniky svoimi k& morju .
 2030710 J m&nog& narod& ot& galilejE po nem$ ide . J ot& ijudejE .
 2030800 J ot& !ilma . J ot& idum@jE . J s& onogo polu ior&dana .
-2030810 J sOStei o tUr@ i sidon@ . m&ogo m&noZ&stvo .
+2030810 J sOStei o tUr@ i sidon@ . m&nogo m&noZ&stvo .
 2030820 slySav&Se eliko tvor@Se pridO k& nemu .
 2030900 J reCe uCenikom& svoim& . da est& pri nem& ladiica naroda radi .
 2030910 da ne s&tOZajOt& emu .
@@ -2084,7 +2084,7 @@
 2032000 J s&b&raSE sE paky narodi . @ko ne moqi im& ni xl@ba s&n@sti .
 2032100 J slySav&Se iZe b@axO u nego . JzidO jEti i .
 2032110 !glaxO bo @ko neistov& est& .
-2032200 J k&niZ&nici niz&Sed&Sei ot& !ierlma . !glxO @ko vel$D@vol& imat&. 
+2032200 J k&niZ&nici niz&Sed&Sei ot& !ierlma . !glxO @ko vel$D@vol& imat& . 
 2032210 J @ko o k$nEzi b@s& izgonit& b@sy .
 2032300 J priz&vav& jE v& prit&Cax& !glaSe k& nim& .
 2032310 kako moZet& sotona sotonO izgoniti .
@@ -2147,13 +2147,13 @@
 2042000 a si sOt& s@anni na dobr@ zemi . JZe sl&SEt& slovo i priemljOt& e .
 2042010 J plodEt& sE . na tri desEti i Sest$ desEt& i s&to .
 2042100 *J !glaSe im& . eda prixodit& sv@til$nik& .
-2042110 da pod& spOdom& poloZen& bOdet&. li pod& odrom& .
+2042110 da pod& spOdom& poloZen& bOdet& . li pod& odrom& .
 2042120 ne da li na sv@St&nik& v&z{l}loZEty i .
 2042200 n@st& bo niC&toZe taino eZe ne avit& sE . ni byst& potaeno .
 2042210 n& da pridet& v& avlenie .
 2042300 JZe imat& uSi slySati da slySit& .
 2042400 J !glaSe im& . bljud@te sE C&to slySite .
-2042410 v$ njuZe m@rO m@rite nam@rit& sE vam&.
+2042410 v$ njuZe m@rO m@rite nam@rit& sE vam& .
 2042420 J priloZit& sE vam& slySEStiim& .
 2042500 *JZe bo aSte imat& dast& sE emu . a JZe ne imat& .
 2042510 J eZe imat& ot&imet& sE ot& nego .
@@ -2196,7 +2196,7 @@
 2050400 zane m&nogy kraty pOty i OZi Zel@zny s&vE[za]nO sOqju . 
 2050410 pr@tr&zaaxO sE ot& nego . OZa Zel@zna i pOta s&kruSaaxO sE . 
 2050420 J niktoZe ego ne moZaaSe umOCiti .
-2050500 i vy inO den$ i noSt$ . v& grob@x& i v& gorax& b@ .
+2050500 i vy-inO den$ i noSt$ . v& grob@x& i v& gorax& b@ .
 2050510 v$pijE i tl&ky sE kameniem$ .
 2050600 uz$r@v& Ze !isa iz daleCe . teCe i pokloni sE emu .
 2050700 J v&z&piv& glasom& veliem$ !gla . Cto m$n@ i teb@ !ise !sne !ba 
@@ -2356,7 +2356,7 @@
 2064200 J @SE v$si i nasytiSE sE .
 2064300 J v$zEsE ukrux& d&va na desEte koSa ispl&n$ i ot& rybu .
 2064400 @d&Six& Ze b@ xl@by . pEt$ tysOSt$ mOZ$ .
-2064500 J abie ub@di uCeniky svojE v&niti v& korab$. J variti
+2064500 J abie ub@di uCeniky svojE v&niti v& korab$ . J variti
 2064510 i na onom& polu k& vid&said@ . don$deZe sam$ ot&pustit& narody .
 2064600 J ot&rek& sE im& ide v& gorO pomolit& sE ::
 2064700 *J veCeru byv&Sju . b@ korab& po sr@d@ mor@ .
@@ -2378,7 +2378,7 @@
 2065600 J @moZe koliZ&do v&xoZdaaSe . v$ v$si li v& grady li v& sela . 
 2065610 na raspOtix& polagaaxO nedOZ&nyjE . J mol@axO i .
 2065620 da pon@ v$skrilin rizy ego prikosnOt& sE . 
-2065630 J eliko aSte prikasaxO sE em$ s&naseni byvaaxO .
+2065630 J eliko aSte prikasaxO sE em$ s&paseni byvaaxO .
 2070100 J s&b&raSE sE k& nemu farisei . i edini ot& k&niZ&nik& priSed&Se
 2070110 ot& !ieruslma .
 2070200 (J vid@v&Se ediny ot& uCenik& ego . neCistama rOkama .
@@ -2436,7 +2436,7 @@
 2072510 *priSed&Si pripade k& nogama ego . 
 2072600 Zena Ze b@ poganyni . sUrofonikissanyni rodom$ .
 2072610 J mol@aSe i da iZdenet& b@s& iz d&Stere jE .
-2072700 !Js& Ze reCe i . ostani da pr&v@e nasytEt& sE CEda .
+2072700 !Js& Ze reCe-i . ostani da pr&v@e nasytEt& sE CEda .
 2072710 n@st& bo dobro otEti xl@ba CEdom& . J psom& povr@Sti .
 2072800 ona Ze ot&v@Stav&Si reCe emu ei !gi .
 2072810 Jbo i psi pod& trapezojO @dEt& ot& krupic& d@tesk& .
@@ -2552,7 +2552,7 @@
 2091100 i v&praSaaxO i !gljOSte @koZe !gljOt& k&niZ$nici .
 2091110 @ko ilii podobaat& pr@Zde priti .
 2091200 on& Ze ot&v@Stav& reCe im& . Jli@ ubo priSed&
-2091210 pr@Zde ustroit& v$s@. J kako est& pisano o !sn@ Clov@C$sc@em$ .
+2091210 pr@Zde ustroit& v$s@ . J kako est& pisano o !sn@ Clov@C$sc@em$ .
 2091220 da m&nogo postraZdet& i uniC$ZEt& I .
 2091300 n& !gljO vam& @ko ili@ pride . i s&tvoriSE emu eliko xot@SE .
 2091310 @koZe est& pisano o nem$ .
@@ -2598,7 +2598,7 @@
 2093310 Cto na pOti v$ seb@ pomySl@aSete .
 2093400 oni Ze ml&CaaxO :: *drug& k& drugu bo s&tEDaSE na pOti .
 2093410 kto est& bolei .
-2093500 J s@d& glasi oba na desEte. J !gla im& aSte kto xoqet&
+2093500 J s@d& glasi oba na desEte . J !gla im& aSte kto xoqet&
 2093510 star@i byti da bOdet& v$s@x& m$nei . J v$s@m& sluga .
 2093600 J priem& otroCE postavi e po sr@[d@] ix& i obem& e reCe im& .
 2093700 JZe aSte edino takovyx& otroCEt& . priimet& v& ImE moe .
@@ -2612,12 +2612,12 @@
 2094000 JZe bo n@st& na vy po vas& est& .
 2094100 (JZe bo aSte napoit& vy CaSO vody . v& ImE @ko xr&stovi este .
 2094110 amin$ !gljO vam& . ne pogubit& m&zdy svoe(jE .
-2094200 J iZe aqe s&blaznit& edinogo ot& malyx& six& v@rujOStiiix& v$ mE .
+2094200 J iZe aqe s&blaznit& edinogo ot& malyx& six& v@rujOStiix& v$ mE .
 2094210 dobr@e emu est& paCe . aqe obloZEt& kamen$ Zr&nov&ny o vyi ego .
 2094220 J v&vr&gOt& I v& more .
-2094300 *(J aSte s&blaZnaat& te rOka tvo@ . ot&s@ci ^jO .
+2094300 *(J aSte s&blaZnaat& tE rOka tvo@ . ot&s@ci ^jO .
 2094310 dobr@a ti est& malomoStijO v& Zivot& v&niti .                   
-2094320 neZe ob@ rOc@ imOStju iti GeonO . v& ogn$ ne gaSOqii .  
+2094320 neZe ob@ rOc@ imOStju iti v$ GeonO . v& ogn$ ne gaSOqii .  
 2094400 JdeZe Cr&v$ ix& ne umiraat& . J ogn$ ne ugasaat& .
 2094500 J aSte noga tvo@ s&blaZnaat& tE ot&s@ci ^jO .
 2094510 dobr@a ti est& v&niti v& Zivot& xromu . neZe d&v@ noD@
@@ -2756,7 +2756,7 @@
 2111000 !blno grEdOSte !csrstvie v& ImE !gi !otca naSego !davda .
 2111010 wsanna v& vyS&niix& . 
 2111100 J v$nide v& !ersm& !is& i v& !crkv& . J !s&glEda v$se .
-2111110 pozd@ juZe sOStu Casu. Jzide v& vitani(jO . s& ob@ma na desEte .
+2111110 pozd@ juZe sOStu Casu . Jzide v& vitani(jO . s& ob@ma na desEte .
 2111200 J v& utr$nii iSed&Sem& im& ot& vitanijE . v&z[a]lka .
 2111300 J vid@v& smokov&nicO iz daleCe . JmOStO listv$e .
 2111310 pride aSte ubo obrEStet& na nei C&to .
@@ -2805,7 +2805,7 @@
 2120100 J naCEt& im& prit&Cami !glti . vinograd& !Clk& nasadi .
 2120110 J ogradi i oplotom$ . J iskopa toCilo i soz&da stl&p& . 
 2120120 J v&dast& I tEZatelem& i otide .
-2120200 J pos&la k& tEZatelem& rab& v& vr@mE .da ot& tEZatel& priimet& .
+2120200 J pos&la k& tEZatelem& rab& v& vr@mE . da ot& tEZatel& priimet& .
 2120210 ot& plod& vinograda .
 2120300 oni Ze em&Se i biSE i pos&laSE t$St$ .
 2120400 J paky pos&la k& nim& drugyi rab& . J togo kameniem$
@@ -3017,8 +3017,6 @@
 2142100 !sn& Ze ubo !ClvCsky idet& @koZe est& pisano o nem$ ::
 2142110 *gore Ze !Clvku tomu im&Ze !sn& !ClvCsky pr@daat& sE .
 2142120 dobro bi emu bylo . aSte ne bi rodil& sE !Clv@kot& :: 
-2142130 *gore Ze !Clvku tomu im&Ze !sn& !ClvCsky pr@daat& sE .
-2142140 dobro bi emu bylo . aSte ne bi rodil& sE !Clv@kot& ::
 2142200 *J @dOStem& im& priem& !is& xl@b& . !blgslveSt& pr@lomi .
 2142210 J dast& im& i reCe . priim@te se est& t@lo moe .
 2142300 J priim& CaSO xvalO v&zdav& dast& im& . J piSE ot& nejE v$si .
@@ -3052,7 +3050,7 @@
 2143810 !dx& bo est& b$dr$ a pl&t& nemoSt&na .
 2143900 J paky Sed& pomoli sE toZde slovo rek& .
 2144000 i v&zvraSt$ sE obr@te jE paky s&pEStE .
-2144010 b@aSete bo im& oCi tEgot$n@. 
+2144010 b@aSete bo im& oCi tEgot$n@ . 
 2144020 J ne um@xO C&to bO ot&v@Stali emu ::
 2144100 *J pride tretiici . i !gla im& . s&pite proCe(e i poCivaite .
 2144110 prisp@ kon$Cina pride Cas& .
@@ -3349,7 +3347,7 @@
 3011400 J bOdet& teb@ radost$ i veselie .  
 3011410 J m&noDi o roZd$stv@ ego v&zdradujOt& sE .  
 3011500 bOdet& bo velei pr@d& !gm$ . i vina i sikera ne imat& piti .  
-3011510 J !dxa !staago ispl&nit& sE eSte i Cr@va matere svoejE .  
+3011510 J !dxa !staago ispl&nit& sE eSte i-Cr@va matere svoejE .  
 3011600 J m&nogy !snv& !izdrlv& obratit& k& !gi !bu ix& .  
 3011700 J t& pr@d&idet& pr@d& nim$ !dxom$ i silojO iliino^jO .  
 3011710 obratiti sr&d&ca ot&cem& na CEda .  
@@ -3417,7 +3415,7 @@
 3015200 niz&loZi sil&nyjE s& pr@stol& . J v&znese s&m@renyjE . 
 3015300 alCOStEjE ispl&ni blag& . J bogatEStEjE sE ot&pusti t&StE . 
 3015400 prijEt& !il@ otroka svoego . pom@nOti milost$ . 
-3105500 @koZe !gla k& !otcm& naSim& . avramu i s@meni ego do v@ka :: 
+3015500 @koZe !gla k& !otcm& naSim& . avramu i s@meni ego do v@ka :: 
 3015600 *pr@byst& Ze mari@ s& nejO @ko i tri mscE . 
 3015610 J v&zvrati sE v& dom& svoi :: :: k!c :: 
 3015700 *elisaveti Ze ispl&ni sE vr@mE roditi ei . J rodi !sn& . 
@@ -3443,10 +3441,10 @@
 3016810 izbavlenie ljudem& svoim& . 
 3016900 J v$zdviZe rog& !spsni@ naSego . v& domu !davda otroka svoego . 
 3017000 @koZe !gla usty !styx& sOStiix& ot& v@ka !prk& . 
-3017100 !spsnie ot& vrag& naSix& . J iz d [r]Ok& v&s@x& nenavidEStiix& nas& . 
+3017100 !spsnie ot& vrag& naSix& . J iz-d-[r]Ok& v&s@x& nenavidEStiix& nas& . 
 3017200 s&tvoriti milost$ s& !oci naSimi . J pomEnOti zav@t& !stoi svoi . 
 3017300 klEtvojO ejOZe klEt& sE . k& avraamu !otcju naSemu dati nam&  
-3017400 be straxa . Jz d rOky vrag& naSix& izbavl$Sem$ sE . sl{u}uZiti emu  
+3017400 be-straxa . Jz-d-rOky vrag& naSix& izbavl$Sem$ sE . sl{u}uZiti emu  
 3017500 pr@podobiem$ . J prav&dojO pr@d& nim$ v$sE d$ni Zivota naSego .  
 3017600 J ty otroCE prork& vyS$n@ago nareCeSi sE . pr@d&ideSi bo pr@d& 
 3017610 licem& !gnem$ ugotovati pOti ego . 
@@ -3481,7 +3479,7 @@
 3021300 J v&nezaapO byst& s& !anGlm& m&noZ&stvo voi !nebskyix& . 
 3021310 xvalESt& !ba i !glgljOStiix& . 
 3021400 slava v& vyS&niix& !bu . J na zemi mir& . v& !Clvcx& blagovolenie . 
-3021500 *J byst& @ko otidO ot& nix& !anGli !nibo . 
+3021500 *J byst& @ko otidO ot& nix& !anGli !nnbo . 
 3021510 (i !Clvci pastyri r@SE drug& k& drugu . pr@id@m& ubo do vitleema . 
 3021520 J vidim& !gl& s& byv&Si(i . JZe s&kaza nam& !g& . 
 3021600 J pridO podvig&Se sE . J obr@tO marijO Ze i osifa . 
@@ -3560,7 +3558,7 @@
 3030140 J lUsaniju Cetvr&tovlast&stvujOStu . aviliniejO  
 3030200 pri arxierei ann@ i kai@f@ :: 
 3030210 *byst& !gl& !bZIi k& ioanu zaxariinu !snu v& pustyni . 
-3030300 J pride bo v$sO stranO ior&dan&skOjO .
+3030300 J pride vo v$sO stranO ior&dan&skOjO .
 3030310 propov@dajE kr&Stenie pokaani@ . v& ot&puStenie gr@xom& . 
 3030400 @koZe est& pisano v& k&nigax& sloves& . isaijE p!rka !glSta . 
 3030410 *glas& v&pijOStaago v& pustyni . ugotovaite pOt$ !gn$ . 
@@ -3574,7 +3572,7 @@
 3030810 J ne naCinaite !glati v& seb@ . !otca imam& avrama . !gljO bo vam& . 
 3030820 @ko moZet& !b& ot& kameni@ sego . v$zdvignOti CEda avraamu . 
 3030900 *juZe bo sekyra pri korenii dr@va leZit& . v$s@ko ubo dr@vo ne 
-3030910 tvorEqee ploda dobra pos@kajOt& i v& ogn$ v$m@tajOt& .:  
+3030910 tvorEqee ploda dobra pos@kajOt& i v& ogn$ v$m@tajOt& :.  
 3031000 *J v&praSaaxO i narodi !gljOq . Cto ubo s&tvorim& . 
 3031100 ot&v@Stav& Ze !gla im& . Jm@jEi d$v@ riz@ da podast& ne imOStumu . 
 3031110 J im@jEi braS&na takoZde da tvorit& . 
@@ -3692,12 +3690,12 @@
 3043610 Cto est& slovo se . @ko vl[a]stijO i silojO velit& . 
 3043620 neCistyim& !dxm& i isxodEt& :: k!c :: 
 3043700 (J isxoZdaaSe Sjum& o nem& v& v&s@ko m@sto i strany . 
-3043800 v&stav& Ze i s&n$miSta . v&nide v& dom& simonov& . 
+3043800 v&stav& Ze i-s&n$miSta . v&nide v& dom& simonov& . 
 3043810 t&Sta Ze simon@ b@ odr&Zima ognem$ veliem$ i moliSE i o nei .  
 3043900 J stav& nad& nejO zapr@ti ognju . i ostavi jO . 
 3043910 abie Ze v&stav&Si sluZaaSe im& :: 
 3044000 zaxodEStju Ze sl&n&cu . v&si eliko im@axO bolEqE(jE
-3044010 nedOgy razliC&ny . privoZdaaxO jE k& nemu .on& Ze na kogoZ&do ix& 
+3044010 nedOgy razliC&ny . privoZdaaxO jE k& nemu . on& Ze na kogoZ&do ix& 
 3044020 rOkO v&zlagajE isc@l@aSe jE . 
 3044100 JsxoZdaaxO Ze i b@si ot& m&nog& v&pijOSte i !gljOSte . 
 3044110 @ko ty esi !x& !sn& !bZii . i zapr@StajE ne da@Se im& !glati . 
@@ -3815,7 +3813,7 @@
 3060910 li tvoriti ili z&lo tvoriti . !dSO s&pasti li pogubiti .
 3061000 J v&z$r@v& na v$sE jE reCe emu . prost$ri rOkO t[v]ojO on& Ze
 3061010 prost$[r@]t& . i utvr&di sE rOka ego @ko i druga@ :: k!c ::
-3061100 oni Ze ispl&niSE se bezum$@ . J !glxO drug& k& drugu .
+3061100 oni Ze ispl&niSE sE bezum$@ . J !glxO drug& k& drugu .
 3061110 Cto biSE s&tvorili !isvi ::
 3061200 *byst& Ze vo d$ni ty . Jzide v& gorO moliti sE i b@ ob noSt$ v&
 3061210 molitv@ !bzii .
@@ -3854,7 +3852,7 @@
 3063000 v&s@komu Ze prosEStumu u tebe dai . J ot& otemljOStaago tvo@ ne 
 3063010 istEDai . :: z!C ::
 3063100 *J @koZe xoStete da tvorEt& vam& !Clci . i vy tvorite im& takoZde .
-3063200 J @Ste ????? ljubite ljubEqEjE by ka@ vam& xvala est& .
+3063200 J @Ste ????? ljubite ljubEqEjE vy ka@ vam& xvala est& .
 3063210 Jbo i gr@S&nici ljubEStEjE ix& ljubEt& . 
 3063300 J aSte blagotvorite blagotvorEqiim& vas& . ka@ vam& xvala est& .
 3063310 ibo i gr@S&nici toZde tvorEt& .
@@ -3907,7 +3905,7 @@
 3070410 @ko dostoin& est& . eZe aSte dasi emu .
 3070500 ljubit& bo !jEzk& naS& . J s&n$miSte t& s&z&da nam& . 
 3070600 !is& Ze id@aSe s& nimi . eSte Ze emu nedaleCe sOqu ot& domu .
-3070610 pos&la k& nemu drugy s&t$nik& !glE emu. !gi ne dviZi sE .
+3070610 pos&la k& nemu drugy s&t$nik& !glE emu . !gi ne dviZi sE .
 3070620 n@sm& bo [do]stoin& da pod& krov& moi v&nideSi .
 3070700 t@m$ Ze ni sebe dostoina s&tvorix& priti k& teb@ .
 3070710 n& r&ci slovom& i isc@l@et& otrok& moi . 
@@ -3923,9 +3921,9 @@
 3071200 @ko Ze pribliZi sE k& vratom& grada . J se iznoSaaxO umeroS&
 3071210 !sn& inoCEd& materi svoei . J ta b@ v&dova . J narod& ot& grada 
 3071220 m&nog& b@ s& nejO .
-3071300 J vid@v& jO !g& ! milosrdova ^jO . J reCe ei ne plaCi sE .
+3071300 J vid@v& jO !g& !milosrdova ^jO . J reCe ei ne plaCi sE .
 3071400 J pristOp$ kosnO v& odr& . nosEStei Ze staSE .
-3071410 J reCe junoSE teb@ !gljO v&stani .
+3071410 J reCe junoSe teb@ !gljO v&stani .
 3071500 J s@de mr&tvy i naCEt& !glati . J dasty i materi ego .
 3071600 *prijEt& Ze st[r]ax& v$sE . J slavl@axO !ba !glOSte . @ko p!rk&
 3071610 velik& v&sta v& nas& . J @ko pos@ti !g$ !b& ljudei svoix& :: k!c ::
@@ -3982,7 +3980,7 @@
 3074200 ne imOqema Ze ima v&zdati ob@ma ima ot&da . kotory ubo eju paCe
 3074210 v&zljubity i .
 3074300 ot&v@Stav& Ze simon& reCe . nep$StjujO @ko emuZe vESte ot&da .
-3074310 on& ZE reCe emu . prav@ sOdil& esi .
+3074310 on& Ze reCe emu . prav@ sOdil& esi .
 3074400 J obraSt& sE k& Zen@ reCe simonu . vidiSi li sijO ZenO . v&nid& v&
 3074410 dom& tvoi . vody na noD@ moi ne dast& .
 3074420 si Ze sl&zami omoCi noz@ moi . J vlasy svoimI ot$re .
@@ -3996,12 +3994,12 @@
 3074910 kto s$ est& iZe i gr@xy ot&puStaat& .
 3075000 reCe Ze k& Zen@ . v@ra tvo@ !spstE idi v& mir& :: k!c ::
 3080100 byst& Ze po tom& i t& proxoZdaaSe . skoz@ grady i v$si .
-3080110 propov@dajE i i blagov@stujE !csrstvie !bZie .
+3080110 propov@dajE i blagov@stujE !csrstvie !bZie .
 3080120 J oba na desEte s& nim$ .
 3080200 J Zeny edIny jEZe b@axO isc@leny . ot& !dx& z$l$ i bol@znii .
 3080210 mari@ naricaema@ magdalini . Jz nejEZe izide sedm$ b@s& .
 3080300 J ioanna Zena xuzan@ pristav&nika irodova . i susana i iny m&nogy .
-3080310 jEZe sluZaaxO emu . ot& im@{ (i}nii svoix& . 
+3080310 jEZe sluZaaxO emu . ot& im@{(i}nii svoix& . 
 3080400 *razum@jOStju Ze narodu m&nogu . J grEdOqem&
 3080410 ot& v$s@x& grad& k$ nemu :: *reCe !g& prit&CO si^jO k& nim& .
 3080500 Jzide s@jEi s@at& s@mene svoego . J egda s@aSe ovo pade pri pOti
@@ -4014,7 +4012,7 @@
 3081000 on& Ze reCe . vam& est& dano v@d@ti tainy !c!srstvi@ !bZi@ .
 3081010 a proCiim& v& prit&Cax& . da vidESte ne vidEt& .
 3081020 i slySESte ne razum@jOt& .
-3081100 est& ze prit&Ca si . *s@mE est& slovo !bZie . 
+3081100 est& Ze prit&Ca si . *s@mE est& slovo !bZie . 
 3081200 a iZe pri pOti sOt& slySEStei . po tom$ Ze pridet& di@vol& .
 3081210 J v&z&met& slovo ot& !srdca ix& . da ne v@ry em&Se !spsni bOdOt& .
 3081300 a iZe na kamenii . IZe egda uslySEt& s& radostijO priemljOt& slovo .
@@ -4057,14 +4055,14 @@
 3082810 J glasom$ veliem$ reCe . Cto est& m&n@ i teb@ !ise .
 3082820 !sne !ba vyS&n@ago . moljO ti sE ne mOCi mene .
 3082900 pr@StaaSe bo duxovi neCistuumu Jziti ot& !Clka . ot& m&nog& bo l@t&
-3082910 v&sxyStaaSe  i . J bEzaaxO i OZi Zel@zny . J pOty str@gOStei .
+3082910 v&sxyStaaSe  i . J vEzaaxO i OZi Zel@zny . J pOty str@gOStei .
 3082920 J rastr&Dav& Ozy . gonim& byvaaSe b@som& skvoz@ pustynjO .
 3083000 v&prosi Ze i !is& !glE Cto ti imE est& . on& Ze reCe leGeon& . 
 3083010 @ko b@si m&noDi v&nidO vo n$ .
 3083100 J mol@axO i da ne povelit& im& v& bezd&nO iti
 3083200 b@ Ze tu stado svinii m&nogo pasomo v& gor@ .
 3083210 J moliSE i da povelit& im& v& t&i v&niti . J povel@ im& .
-3083300 JSed&Se zE b@si ot& !Clvka . v&nidO v& svinijE .
+3083300 JSed&Se Ze b@si ot& !Clvka . v&nidO v& svinijE .
 3083310 J ustr&mi sE stado po br@gu v& ez!ro i istope .
 3083400 vid@v&Se Ze pasOStei byv&See b@ZaSE
 3083410 i v&zv@stiSE v& grad@ i v& sel@x& .
@@ -4113,17 +4111,17 @@
 3085400 on& Ze izg&nav& v$sE von& . J em& jO za rOkO v&zglasi !glE .
 3085410 otrokovice v&stani .
 3085500 i v&zvrati sE !dx& ejE . J v&skr&se abie . J povel@ dati ei @sti .
-3085600 J uZasete sE roditel@ ejE . on& ze zapr@ti ima ne pov@d@ti
+3085600 J uZasete sE roditel@ ejE . on& Ze zapr@ti ima ne pov@d@ti
 3085610 nikomuZe byv&[S]ago :: k!c ::
 3090100 *s&z&vav& Ze !is& oba na desEte . dast& im& silO i vlast$ na
 3090110 v$s@x& b@s@x& . J nedOgy c@liti .
 3090200 J pos&la jE . propov@[d@]ti !csrstvie !bZie . J c@liti bolEqEjE .
-3090300 J reCe k& nim& . nic&soZe ne v$zeml@te na pOt$ . ni Z&zla nI piry .
+3090300 J reCe k& nim& . niC&soZe ne v$zeml@te na pOt$ . ni Z&zla nI piry .
 3090310 ni xl@ba ni s&rebra . ni d&voju rizu im@ti .
 3090400 J v& n$Ze dom& v&nidete tu pr@byvaite . J ot& tudu isxodite . 
 3090500 J eliko ne priemljOt& vas& . JsxodESte ot& grada togo . 
 3090510 J prax& ot& nog& vaSix& ot&trEs@te . v$ s&v@d@nie na nE .
-3090600 IsxodESte Ze proxoZdaaxO skvoz@ v$si .
+3090600 JsxodESte Ze proxoZdaaxO skvoz@ v$si .
 3090610 blagov@stujOSte . J c@lESte v&sOdO :: k!c
 3090700 *slySa Ze irod& Cetvr&tovlastec& . byvajOStaa ot& nego v$s@ .
 3090710 J ne domySl@aSe sE zane !glagl& b@ ot& eter& . @ko ioan& v&sta ot&
@@ -4143,7 +4141,7 @@
 3091300 reCe Ze k& nim& . dadite im& vy @sti . oni Ze r@SE ne imam&
 3091310 s&de vESte pEti xl@b& . J rybu d&vojO . aqe ubo ne my
 3091320 S$d&Se vo v$sE ljudi si(jE . kupim& braS&na .
-3091400 b@aSe bo mOZ$ @ko nEt$ tysjOSt$ . :: *reCe Ze k& uCenikom& svoim& 
+3091400 b@aSe bo mOZ$ @ko pEt$ tysjOSt$ . :: *reCe Ze k& uCenikom& svoim& 
 3091410 posadite jE na spody po pEti desEt& .
 3091500 J s&tvoriSE tako . J posadiSE v$sE .
 3091600 priem& Ze pEt$ xl@b& i ob@ ryb@ . v$z$r@v& na nebo blagoslovi jE .
@@ -4211,7 +4209,7 @@
 3094510 da ne oStjutEt& ego . J bo@axO sE v&prositi ego o !gl@ sem$ :: 
 3094600 *v$nide Ze pomySlenie v$ nE . k&to ix& vEStei bi byl& .
 3094700 !Js& Ze v@dy pomySlenie !srdca ix& . priem& otroCE postavi e u sebe 
-3094800 i recE im& . JZe aSte priimet& otroCE se v& ImE moe mE priemlet& .
+3094800 i reCe im& . JZe aSte priimet& otroCE se v& ImE moe mE priemlet& .
 3094810 J iZe aSte priemlet& mE . priemlet& pos&lav&Saago mE .
 3094820 JZe bo m$nii est& vo v$s@x& vas& . s$ est& vEStei . ::
 3094900 *(ot&v@Stav& Ze ioan& reCe . nastav&niCe vid@xom& etera . o imeni 
@@ -4229,15 +4227,15 @@
 3095420 @koZe i ili@ s&tvori .
 3095500 obraSt& Ze sE zapr@ti ima . 
 3095600 i idO vy inO ves$ .
-3095700 *byst& ze idOStem& po pOti . reCe edin& k& nemu .
+3095700 *byst& Ze idOStem& po pOti . reCe edin& k& nemu .
 3095710 JdO po teb@ @moZe koliZ&do ideSi !gi .
 3095800 J reCe emu !is& . lisi @zviny imOt& . i pticE !nebskyjE gn@zda .
 3095810 a !sn& !ClCsky ne imat& k&de pod&kloniti glavy .
 3095900 *reCe Ze k& druguumu xodi v$ sl@d& mene . on& Ze reCe !gi .
 3095910 poveli mi drevle SEd&Se pogreti !otca moego . 
-3096000 *reCe zE emu !is& ostavi mr&tvym& pogreti svojE mr&tv&cE .
+3096000 *reCe Ze emu !is& ostavi mr&tvym& pogreti svojE mr&tv&cE .
 3096010 ty Ze Sed& v&zv@Stai !csrstvie !bZie .
-3096100 reCe ze i drugy idO po teb@ !gi . drevle 
+3096100 reCe Ze i drugy idO po teb@ !gi . drevle 
 3096110 Ze poveli ot&reSti mi sE . JZe sOt& v& domu moem$ .  
 3096200 reCe Ze k& nemu !is& . nik&toZe v&zloZ& rOky svoejE na ralo .
 3096210 J z$rE v$spEt$ upravlen& est& v& !c@srstvie !bZie :: k!c ::
@@ -4294,7 +4292,7 @@
 3102500 *J se zakon$nik& eter& v&sta k& !isvi . iskuSajE i i !glE .
 3102510 uCitelju Cto s&tvor$ Zivot& v@C&nyi nasl@d&stvujO .
 3102600 on& Ze reCe k& nemu . v& zakon@ C&to pisano est& kako C$teSi .
-3102700 on& Ze ot&v@Stav& reCe .v&zljubiSi !ga !ba tvoego . ot& v$sego !srdca
+3102700 on& Ze ot&v@Stav& reCe . v&zljubiSi !ga !ba tvoego . ot& v$sego !srdca
 3102710 tvoego . i v$sejO !dSejO tvoejO . J v$sejO kr@postijO tvoejO ::
 3102720 J v$s@m$ pomySleniem$ tvoim$ . i iskr&n@ago tvoego @ko sam& sE .
 3102800 *reCe Ze emu prav@ ot&v@Sta se tvori i Ziv& bOdeSi .
@@ -4305,7 +4303,7 @@
 3103020 iZe i s&bl&k&Se i . i @zvy v&zloZ&Se otidO . 
 3103030 ostavl$Se el@ Ziv& sOSt& .
 3103100 po prikljuCaju Ze ierei edin& s&xoZdaaSe potem$ t@m$ .
-3103110 J vid@v& I mimo ide.
+3103110 J vid@v& I mimo ide .
 3103200 takoZde Ze i lev&Giit& . byv&{v&} na tom$ m@st@ .
 3103210 priSed& i vid@v& I mimo ide .
 3103300 samar@nin& Ze edin& grEdy pride nad$ n$ . J vid@v& I !milosrdva .
@@ -4318,7 +4316,7 @@
 3103610 v&pad&SjOumu v& razboiniky .
 3103700 on& Ze reCe s&tvorii milost$ s$ nim$ .
 3103710 *reCe emu !is& idi i ty  tvori takoZde :: kc ::
-3103800 *byst& ze xodEqem& Jm& (J t& v&nide !is& v& ves$ edino . Zena
+3103800 *byst& Ze xodEqem& Jm& (J t& v&nide !is& v& ves$ edino . Zena
 3103810 edina imenem$ mar&ta . prijEt& I v& dom& svoi . 
 3103900 J sei b@ sestra imenem& mari@ . @Ze i s@d&Si pri nogu !isvu
 3103910 slySaaSe slovo ego .
@@ -4484,7 +4482,7 @@
 3122100 tako s&birajEi seb@ . a ne v& !b& bogat@jE .
 3122110 si !glE v&zglasi im@jEi uSi slySati da slySit& ::k!c ::
 3122200 *reCe k& uCenikom& svoim& . sego radi !gljO vam& . ne pc@te sE !dSejO
-3122210 vaSejO Cto @ste. ni t@lom$ v$ C&to obl@Cete sE .
+3122210 vaSejO Cto @ste . ni t@lom$ v$ C&to obl@Cete sE .
 3122300 !dSa bo bol$Si est& piStE i t@lo odeZdE .
 3122400 s&motrite vran& @ko ne s@jOt& ni Z$njOt& . Jm$Ze n@st& s&kroviSta .
 3122410 ni xraniliSta . i !b& pit@at& jO . kol$mi paCe vy este luC$Se ptic& .
@@ -4535,7 +4533,7 @@
 3124800 ne  v@d@vy Ze s&tvor$ Ze dostoinaa ranam& b&en$ bOdet& maly . 
 3124810 v$s@komu Ze emuZe dano byst& m$nogo . iziStet& sE ot& nego . i
 3124820 emuZe pr@daSE m$nogo liS$Sa prosEt$ ot& nego ::
-3124900 *(ogn@ prid& v$vr@St&{&} v&zemljO Cto xoStO aSte juZe i v&zgor@ sE.
+3124900 *(ogn@ prid& v$vr@St&{&} v&zemljO Cto xoStO aSte juZe i v&zgor@ sE .
 3125000 kr$qenie Ze imam& kr&stiti sE . J kako udr&ZO sE don$deZe
 3125010 kon$Caat& sE .
 3125100 m$nite li @ko mira prid& dati na zemljO .
@@ -4557,7 +4555,7 @@
 3125900 !gljO teb@ ne imaSi iziti ot& tud@ . don$deZe i posl@d$nii
 3125910 tr$x$t$ v&zdasi ::
 3130100 prikljuCiSE Ze sE edini v& to vr@mE pov@daOSte emu
-3130110 o galileix& . (J . x&ZE kr&v& pilat& s&m@si s& zr&tvami ix& .
+3130110 o galileix& . -(J . x&Ze kr&v& pilat& s&m@si s& Zr&tvami ix& .
 3130200 i ot&v@Stav& !is& reCe im& . m$nite li @ko galil@ane
 3130210 sii gr@S&n@iSi paCe v$s@x& !Clk& b@SE . @ko tako postradaSE .
 3130300 ni . !gljO vam& . n& aSte ne pokaate sE . v$si takoZde pogyblete .
@@ -4576,14 +4574,14 @@
 3130910 v$ grEdOStee vr@mE pos@CeSi ^jO . ::
 3131000 *b@ Ze uCE !is& na edinom$ ot& son$miSt$ v& soboty .
 3131100 J se Zena b@aSe !dx& imOSti nedOZen$ . !D !J . na desEte l@t& .
-3131100 i b@ slOka . J ne mogOSti sE v&skloniti ot&nOd$ .
+3131110 i b@ slOka . J ne mogOSti sE v&skloniti ot&nOd$ .
 3131200 uz$r@v& Ze jO !is& !priglasi i reCe ei .
 3131210 Zeno ot&puStena esi ot& nedOga tvoego .
 3131300 i v&zloZi na njO rOc@ . i abie prost$r@ sE . i slavl@aSe !ba .
 3131400 ot&v@Sta{v&}v& Ze arxisUnagog& negodujE zane v& sobotO
 3131410 isc@li jO !is& . !glaSe narodu .
 3131420 Sest$ den& est& v$ nEZe dostoit& d@lati . v& ty ubo
-3131420 prixodESte c@lite sE a ne v$ den$ sobot&ny .
+3131430 prixodESte c@lite sE a ne v$ den$ sobot&ny .
 3131500 ot&v@Sta k& nemu !g$ i reCe . licem@ri . k&Z&do vas& v& sobotO .
 3131510 ne otr@Saat& li svoego volu li os&la ot& @slii . i ved& napa@at& .
 3131600 sijO Ze d&Ster$ avramljO sOStO . jOZe s&vEza sotona se osmoe na
@@ -4746,7 +4744,7 @@
 3152210 J obl@c@te i . J dadite pr&sten$ na rOkO ego . J sapogy na noD@ .
 3152300 (J prived&Se telec& upit@ny zakolite . i @d&Se da veselim& sE .
 3152400 @ko !sn& moi s$ mr&tv& b@ i oZive . Jzgybl& b@ i obr@te sE . 
-3152410 J naCEsE veseliti sE. 
+3152410 J naCEsE veseliti sE . 
 3152500 b@ Ze !sn& ego star@i na sel@ . J @ko grEdy pribliZi sE k& domu .
 3152510 slySa p@ni@ i liky . 
 3152600 J priz&vav& edinogo ot& rab& . v&praSaaSe Cto ubo si sOt& .
@@ -4843,7 +4841,7 @@
 3170600 reCe Ze !g& . aSte biste im@li v@rO @ko zr&no gorjuS$no . !glali
 3170610 biste ubo sUkamin@ sei . v$zderi sE i v&sadi sE v& more .
 3170620 i posluSala bi vas& . ::
-3170700 *kotoryi Ze ot& vas& . rab& im@jE opjOSt& li pasOq& JZe priS$d&Sju s&
+3170700 *kotoryi Ze ot& vas& . rab& im@jE orjOSt& li pasOq& JZe priS$d&Sju s&
 3170710 sela . reCet& abie minOv& v&zlEDi .
 3170800 n$ ne reCet& li emu . u[go]tovai C&to veCer@jO .
 3170810 J pr@po@sav& sE sluZi mi . don$deZe @m$ i pijO .
@@ -4948,7 +4946,7 @@
 3182410 bgat&stvo . v& !csrstvie !bZie v&nidOt& .
 3182500 udob@e bo est& vel$bOdu skvoz@ ig$lin@ uSi proiti . neZe bogatu v& 
 3182510 !csrstvie . v$niti .
-3182600 r@SE ZE slySav&Sei . to kto moZet& !spsn& byti .
+3182600 r@SE Ze slySav&Sei . to kto moZet& !spsn& byti .
 3182700 on& Ze reCe ne v&zmoZ&naa ot& !Clvk& .
 3182710 v&zmoZ&na ot& !ba sOt& :: k!c :: 
 3182800 *reCe Ze petr& se my ostavixom& v&s@ . J po teb@ idom& .
@@ -4959,7 +4957,7 @@
 3183010 i v& v@k& grEdOStii Zivot& v@C&ny .
 3183100 *poim& Ze oba na desEte reCe [k]& nim& . se v&sxodim& v& !im& .
 3183110 i s&kon$CajOt& sE v$s@ pisana !prky . o !sn@ !!Clv@Csc@m$ .
-3183200 pr@dadEt& bo i jEzykm& . i porOgajOt& sE emu .i dosadEt& emu
+3183200 pr@dadEt& bo i jEzykm& . i porOgajOt& sE emu . i dosadEt& emu
 3183210 i zapljujOt& I .
 3183300 i biv&Se ubijOt& I . (J treti den$ v$skr$snet& .
 3183400 J ti niCesoZe ot& six& ne razum@SE . J b@ !glos$ s&kr&ven& ot& nix& .
@@ -5133,7 +5131,7 @@
 3203700 a @koZe v&stajOt& mr&tvii . i mosii s&kaza pri kOpin@ .
 3203710 @koZe !glet& . !ga !ba avraml@ . i !ba isakova . i !ba i@kovl@ .
 3203800 !b& Ze n@st& mr&tvyx& n& Zivyx& . v&si bo tomu Zivi sOt& .
-3203900 ot&v@Stav&Se Ze edini k&niZ&nici r@SE . uCitelju dobr@ rece .
+3203900 ot&v@Stav&Se Ze edini k&niZ&nici r@SE . uCitelju dobr@ reCe .
 3204000 k& tomu Ze ne s&m@axo ego v&pra[Sa]ti niC$soZe .
 3204100 r[e]Ce Ze k& nim& . kako !gljOt& edini . !xa byti !sna !dva .
 3204200 a sam& !davd& !glet& v& k&nigax& psalom&skyx& . reCe !g& !gvi moemu
@@ -5281,10 +5279,10 @@
 3223720 kon$Cino imat& ::
 3223800 oni Ze r@SE !gi se noZa s&de d&va . (*on& Ze reCe im& dovol$no est& .
 3223900 J iSed& ide po obyCaju v& gorO eleon&skO . po nem$Ze idO uCenici ego .
-3224000 *byv& Ze na m@st@ rece im& . molite sE da ne v&nidete v& napast$ .
+3224000 *byv& Ze na m@st@ reCe im& . molite sE da ne v&nidete v& napast$ .
 3224100 J sam& ostOpi ot& nix& . @ko br&Zenie kameni . i poklon$ kol@n@
 3224110 mol@aSe sE 
-3224200 !glE :: !otCe aqe boliSi mImo nesi CaSO sijO ot& mene . obaCe ne mo@ 
+3224200 !glE :: !otCe aqe voliSi mImo nesi CaSO sijO ot& mene . obaCe ne mo@ 
 3224210 vol@ n& tvo@ da bOdet& . 
 3224300 avi Ze sE emu !anGl& . s !nbse ukr@pl@jE i .
 3224400 J byv& v& podviD@ . prileZ$n@e mol@aSe sE . J byst& pot& ego @ko
@@ -5331,7 +5329,7 @@
 3226500 J ina m&noga xulESte !glaaxO na n$ . 
 3226600 J @ko byst& d$n$ s&b&raSE sE star$ci ljud$scii . J arxierei i
 3226610 k&niZ$nici . J v@sE i na s&nm$ svoi !gljOSte . 
-3226600 aSte ty esi !x& r&ci nam& .
+3226620 aSte ty esi !x& r&ci nam& .
 3226700 reCe Ze im& . aSte vam& rekO ne imete v@ry .
 3226800 aSte Ze i v&proSO vy ne ot&v@Staate mi . ni pustite . 
 3226900 ot& sel@ bOdet& !sn& !ClvC&skyi s@dE o desnOjO sily !bZi(jE .
@@ -5390,7 +5388,7 @@
 3232710 jEZe i bi@axO sE i plakaaxO sE ego .
 3232800 obraSt$ Ze sE !is& k& nim$ reCe . d&Steri !Jmsky . ne plaCite sE o 
 3232810 m$n@ . obaCe sebe plaCite sE i CEd& vaSix& .
-3232900 @ko se d$n$e grEdOt& . v$ nEZe rekOt&. blaZeny neplod&vi i Cr@va
+3232900 @ko se d$n$e grEdOt& . v$ nEZe rekOt& . blaZeny neplod&vi i Cr@va
 3232910 @Ze ne rodiSE . J s$s&ci iZe ne doiSE .
 3233000 togda naC&nOt& !glati goram& pad@te na ny . J xl&mom& pokryite ny . 
 3233100 zane aSte v& syr@ dr@v@ si tvorEt& . v& sus@ Cto bOdet& ::
@@ -5409,7 +5407,7 @@
 3233900 *edin& Ze ot& ob@Senuju z&lod@^jO xul@aSe i !glE .
 3233910 aSte ty esi !x& !spsE sam& i ny .
 3234000 ot&v@Stav& Ze drugy pr@StaaSe emu !glE . ni li ty boiSi sE !ba .
-3234000 @ko v& tom$Zde osOZdenii esi .
+3234010 @ko v& tom$Zde osOZdenii esi .
 3234100 J v@ ubo v& prav&dO dostoinaa bo d@lom& naju v&spriemlev@ .
 3234110 a s$ niC$soZe z&la ne s&tvori .
 3234200 J !glaaSe !isvi pom@ni mE !gi . egda prideSi v& !csrstvii tvoem$ . 
@@ -5564,7 +5562,7 @@
 4012900 *v& utr@i den$ vid@ !isa grEdOSta k& seb@ .
 4012910 J !gla se agnec& !bZIi . v&zemlEi gr@xy mira v$sego .
 4013000 s$ est& o nem$Ze az& r@x& . po m$n@ grEdet& moZ& .
-4013010 JZe pr@d& m&nojO by!s . @ko pr&v@i mane b@ .
+4013010 JZe pr@d& m&nojO by!s . @ko pr&v@i mene b@ .
 4013100 J az& ne v@d@ax& ego . n& da @vit& sE !izdrailevi . sego radi az&
 4013110 prid& v& vod@ kr&stE .
 4013200 J s&v@d@tel$stvova ioan& !glE . @ko vid@x& !dx& s&xodESt$ .
@@ -5612,7 +5610,7 @@
 4020200 z&van& Ze byst& i !is& . J uCenici ego na brak& .
 4020300 J nedostav&Sju vinu . !gla mati !isva k& nemu . vina ne imOt& .
 4020400 !gla ei !is& . Cto est& m$n@ i teb@ Zeno . ne u pride godina mo@ .
-4020500 !gla mati ego slugam& . eZe aste !glet& vam& s&tvorite .
+4020500 !gla mati ego slugam& . eZe aSte !glet& vam& s&tvorite .
 4020600 b@ Ze tu vodonos& kam@n& Sest$ leZESt& . po oCiSteniju ijudeisku .
 4020610 v&m@stESt$ po d$v@ma li trem& m@ram& .
 4020700 !gla im& !is& . napl&nite vodonosy vody . J napl&niSE jE do vr&xa .
@@ -5641,7 +5639,7 @@
 4021810 koe znamenie @vl@eSi nam& @ko si tvoriSi .
 4021900 wt&v@qa !is& i reCe im& . razorite !crkv$ sijO . J tr$mi den$mi
 4021910 v$zdvignO (jO .
-4022000 r@SE Ze ijudei . Cetyr&mi desEty i SEstijO l@t& s&z&dana 
+4022000 r@SE Ze ijudei . Cetyr&mi desEty i SestijO l@t& s&z&dana 
 4022010 by!s !crky si . J ty li tr$mi den$mi v$zdvigneSi jO .
 4022100 on& Ze glaaSe o !crkvi t@la svoego .
 4022200 *(egda ubo v&sta ot& mr&tvyx& . pom@nOSE uCenici ego
@@ -5702,9 +5700,9 @@
 4032500 *byst& Ze s&tEDanie ot& uCeni{ni}k& ioanov& . s& (Jjudei .
 4032510 o oCiStenii . 
 4032600 J pridO k& ioanu i r@SE emu rav$vi . JZe b@ s& tobojO ob on& pol&
-4032610 ior&dana .emuZe ty s&v@d@tel$stvova . se s$ kr$Staat& i v$si 
+4032610 ior&dana . emuZe ty s&v@d@tel$stvova . se s$ kr$Staat& i v$si 
 4032620 grEdOt& k& nemu .
-4032700 ot&v@qa ioan& i reCE . ne mo[Ze]t& !Clk& priimati niCesoZe .
+4032700 ot&v@qa ioan& i reCe . ne mo[Ze]t& !Clk& priimati niCesoZe .
 4032710 aqe n[e] bOdet& emu dano !snbse . 
 4032800 vy sami m$n@ s&v@d@tel$stvuute . @ko r@x& n@sm& az& !x& .
 4032810 n& pos&lan& esm& pr@d& nim$ ::
@@ -5789,7 +5787,7 @@
 4043610 da i s@jEi v&kup@ raduut& sE i Z$nEi .
 4043700 o sem$ bo est& slovo istovoe . @ko in& est& s@jE(i .
 4043710 J in& est& Z$nEi .
-4043800 az& pos&lax& vy ZEt& . JdeZe vy me trudiste sE . Jni trudiSE sE i
+4043800 az& pos&lax& vy ZEt& . JdeZe vy ne trudiste sE . Jni trudiSE sE i
 4043810 vy v& trudy ix& v$nidete .
 4043900 ot& grada Ze togo m&noDi v@rovaSE v$ nego . ot& samar@n& . za slovo 
 4043910 Zen@ s&v@d@tel$stvujOSti . @ko reCe mi v$s@ eliko s&tvorix& .
@@ -5839,7 +5837,7 @@
 4050720 egda Ze prixoZdO az& . Jn& pr@Zde mene v&lazit& .
 4050800 !gla emu !is : v&stani v&z&mi odr& tvoi . J idi v& dom& svoi .
 4050900 J ab$e c@l& byst& !Clk& . J v$zEt& odr& svoi . i xoZdaaSe 
-4059100 b@ Ze sobota v& t& d$n$ .
+4050910 b@ Ze sobota v& t& d$n$ .
 4051000 !glaxO Ze ijudei isc@l@v&Sjuumu . sobota est& i ne dostoit& teb@
 4051010 v$zEti odra tvoego .
 4051100 on& Ze ot&v@Sta im& . JZe mE s&tvori c@la t& m&n@ reCe .
@@ -5886,14 +5884,14 @@
 4053100 aSte az& s&v@d@tel$stvujO o m$n@ .
 4053110 s&v@tel$stvo moe n@st& istin&no .
 4053200 Jn& est& s&v@d@tel$stvujEi o men@ . J v@m$ @ko istin$no est&
-4053210 s&v@d@tel$stvo eZe s&v@d@tel$stvut& o m&n@.
+4053210 s&v@d@tel$stvo eZe s&v@d@tel$stvut& o m&n@ .
 4053300 vy pos&laste k& io{o}anu . J s&v@d@tel$stvova o istin@ .
 4053400 az& Ze ne ot& !Clka s&v@d@tel$stva priemljO . n& si !gljO da vy
 4053410 !spsni bOdete .
 4053500 on& b@ sv@til$nik& gorA i sv$tE . v&[I] Ze xot@ste v&zdradovati
 4053510 sE v& godinO sv$t@ni@ ego .
 4053600 az& Ze imam& s&v@d@tel$stvo bole ioanova .
-4053610 d@la bo @Ze dast& m&n@ !otc& da s&vr&SO@ . ta d@la @Ze tvorjO .
+4053610 d@la bo @Ze dast& m&n@ !otc& da s&vr&SO @ . ta d@la @Ze tvorjO .
 4053620 s&v@d@tel&stvujOt& o m$n@ . @ko otec& mE pos&la .
 4053700 i pos&lavy mE !otc& . t& s&v@d@tel$stvova o m$n@ . ni glasa ego
 4053710 nik&deZe slySaste . ni vid@ni@ ego vid@ste .
@@ -5966,7 +5964,7 @@
 4062700 *d@laite ne braS&no gybljOStee . n& braS&no pr@byvajOqee v& Zivot@
 4062710 v@c$n@em$ . eZe !sn& !Clvsky vam& dast& .
 4062720 sego bo !otc& znamena !b& .
-4062800 r@SE ze k& nemu Cto s&tvorim& da d@laem& d@la !bZi@ .
+4062800 r@SE Ze k& nemu Cto s&tvorim& da d@laem& d@la !bZi@ .
 4062900 ot&v@qa !is& i reCe im& . se (est& d@lo !bZi(e .
 4062910 da v@ruute v& t& . egoZe pos&la on& .
 4063000 r@SE Ze emu koe ubo ty tvoriSi znamenie da vidim&
@@ -5994,7 +5992,7 @@
 4064200 J !glaaxO . ne s$ li est& !is . !sn& iosifov& .
 4064210 emuZe my znaem& !otca i mater$ .
 4064220 kako ubo s$ !glet& @ko !snbse s&nid& .
-4064300 ot&v@qa !is (i recE im& . ne r&p$Stite meZdju sobo^jO .
+4064300 ot&v@qa !is (i reCe im& . ne r&p$Stite meZdju sobo^jO .
 4064400 niktoZe ne moZet& priti k& m$n@ . aSte ne !otc& pos&lavyi
 4064410 mE privl@Cet& ego . J az& v&skr@SO i v& posl@d$nii d$n$ :: k!c :: 
 4064500 est& pisano v& proroc@x& . J bOdOt& v$si uCeni !bgom$ . v$s@k& 
@@ -6434,7 +6432,7 @@
 4103310 kameni@ na tE . n& o vlasfimii . J @ko ty !Clvk& sy
 4103320 tvoriSi sE sam& !b& .
 4103400 ot&v@Sta im& !is& . n@st& li napisano v& zakon@
-4103810 vaSem& . @ko az& r@x& boDi este .
+4103410 vaSem& . @ko az& r@x& boDi este .
 4103500 aSte ony reCe bogy . k& nim&Ze byst& slovo !bZie .
 4103510 J ne mogOt& sE k$nigy razoriti .
 4103600 egoZe !otc& !sti . i pos&la v& mir& . vy !glete @ko
@@ -7211,7 +7209,7 @@
 4201400 se rek&Si obrati sE v$spEt$ . J vid@ !isa stojESta .
 4201410 J ne v@d@aSe @ko !is& est& .
 4201500 !gla ei !is& Zeno Cto sE plaCeSi kogo iSteSi . ona Ze
-4201510 m$nESti @ko vr&togradar$ est& . reCe emu !gi .aSte ty
+4201510 m$nESti @ko vr&togradar$ est& . reCe emu !gi . aSte ty
 4201520 esi v&zEl& . pov@Zd$ m$n@ k&de i esi poloZil& .
 4201530 J az& J v$z&mO .
 4201600 !gla ei !is$ marie . obraSt$Si Ze sE ona !gla emu .
